@@ -1,58 +1,99 @@
 [
   {
     "name": "ABC Job123",
-    "id": 1
+    "id": 1,
+    "footer": "some shit1",
+    "img": "https://images.unsplash.com/photo-1602526211905-6adc54adb8d2?ixid=MXwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1062&q=80",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, unde.\n"
   },
   {
     "name": "CDE Job123",
-    "id": 2
+    "id": 2,
+    "footer": "some shit2",
+    "img": "https://images.unsplash.com/photo-1608600712992-03e5325d94c8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, unde.\n"
   },
   {
     "name": "FGH Job123",
-    "id": 3
+    "id": 3,
+    "footer": "some shit3",
+    "img": "https://images.pexels.com/photos/4207910/pexels-photo-4207910.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, unde.\n"
   },
   {
     "name": "JKL Job123",
-    "id": 3
+    "id": 18,
+    "footer": "some shit4",
+    "img": "https://images.pexels.com/photos/257360/pexels-photo-257360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, unde.\n"
   },
   {
     "name": "LMN Job123",
-    "id": 4
+    "id": 4,
+    "footer": "some shit5",
+    "img": "https://images.pexels.com/photos/158028/bellingrath-gardens-alabama-landscape-scenic-158028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, unde.\n"
   },
   {
     "name": "OPQ Job123",
-    "id": 5
+    "id": 5,
+    "footer": "some shit6",
+    "img": "https://images.pexels.com/photos/805452/pexels-photo-805452.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "text": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet cupiditate doloremque doloribus earum fugiat iure maiores, nihil quaerat quam tenetur."
   },
   {
     "name": "QRS Job123",
-    "id": 6
+    "id": 6,
+    "footer": "some shit7",
+    "img": "https://images.pexels.com/photos/381739/pexels-photo-381739.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "text": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet cupiditate doloremque doloribus earum fugiat iure maiores, nihil quaerat quam tenetur."
   },
   {
     "name": "TUV Job123",
-    "id": 7
+    "id": 7,
+    "footer": "some shit8",
+    "img": "https://images.pexels.com/photos/1043458/pexels-photo-1043458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "text": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet cupiditate doloremque doloribus earum fugiat iure maiores, nihil quaerat quam tenetur."
   },
   {
     "name": "WXY Job123",
-    "id": 8
+    "id": 8,
+    "footer": "some shit9",
+    "img": "https://images.pexels.com/photos/407083/vienna-belvedere-wien-schloss-407083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   },
   {
     "name": "ZZZ Job123",
-    "id": 9
+    "id": 9,
+    "footer": "some shit10",
+    "img": "https://images.pexels.com/photos/409696/pexels-photo-409696.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "text": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet cupiditate doloremque doloribus earum fugiat iure maiores, nihil quaerat quam tenetur."
   },
   {
     "name": "ZZZ Job567",
-    "id": 10
+    "id": 10,
+    "footer": "some shit11",
+    "img": "https://images.pexels.com/photos/56866/garden-rose-red-pink-56866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, unde.\n"
+
   },
   {
     "name": "ZaZZ Job999",
-    "id": 11
+    "id": 11,
+    "footer": "some shit12",
+    "img": "https://images.pexels.com/photos/1131458/pexels-photo-1131458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "text": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet cupiditate doloremque doloribus earum fugiat iure maiores, nihil quaerat quam tenetur."
   },
   {
     "name": "ZZZ Journey",
-    "id": 12
+    "id": 12,
+    "footer": "some shit13",
+    "img": "https://images.pexels.com/photos/460775/pexels-photo-460775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
   },
   {
     "name": "ZZZ Indigo",
-    "id": 13
+    "id": 13,
+    "footer": "some shit14",
+    "img": "https://images.pexels.com/photos/234510/pexels-photo-234510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "text": "  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet cupiditate doloremque doloribus earum fugiat iure maiores, nihil quaerat quam tenetur."
   }
 ]
